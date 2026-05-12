@@ -1,6 +1,6 @@
 # Laboratorio di Programmazione II
 
-Repository con gli esercizi svolti durante il corso di Laboratorio di Programmazione II.
+Repository con gli esercizi svolti durante il corso di Laboratorio di Programmazione II. [Repository Corso](https://github.com/lauranenzi/LabProgrammazione_II_2026)
 
 Ho organizzato il materiale per lezione, così da tenere separati gli argomenti trattati durante il corso e rendere più semplice la consultazione dei notebook.
 
