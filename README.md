@@ -8,4 +8,4 @@ Ho organizzato il materiale per lezione, così da tenere separati gli argomenti 
 
 Ogni cartella contiene gli esercizi relativi a una lezione:
 
-- `lezione_01`
+- `lezione_01` 
