@@ -8,8 +8,8 @@ Ho organizzato il materiale per lezione, così da tenere separati gli argomenti 
 
 Ogni cartella contiene gli esercizi relativi a una lezione:
 
-- `lezione_01` 
+- `lezione_01/` 
     - `esercizio-01.ipynb`
     - `esercizio-02.ipynb`
     - `esercizio-03.ipynb`
-- `lezione_02` 
+- `lezione_02/` 
