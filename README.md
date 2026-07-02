@@ -22,3 +22,7 @@ Ogni cartella contiene gli esercizi relativi a una lezione:
     - `esercizio-07.ipynb`
     - `esercizio-08.ipynb`
     - `esercizio-09.ipynb`
+- `lezione_03/` 
+    - `esercizio-01.ipynb`
+    - `esercizio-02.ipynb`
+    - `esercizio-03.ipynb`
