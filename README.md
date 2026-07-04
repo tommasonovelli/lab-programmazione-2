@@ -8,25 +8,27 @@ Ho organizzato il materiale per lezione, così da tenere separati gli argomenti 
 
 Ogni cartella contiene gli esercizi relativi a una lezione:
 
-- `lezione_01/` 
-    - `esercizio-01.ipynb`
-    - `esercizio-02.ipynb`
-    - `esercizio-03.ipynb`
-- `lezione_02/` 
-    - `esercizio-01.ipynb`
-    - `esercizio-02.ipynb`
-    - `esercizio-03.ipynb`
-    - `esercizio-04.ipynb`
-    - `esercizio-05.ipynb`
-    - `esercizio-06.ipynb`
-    - `esercizio-07.ipynb`
-    - `esercizio-08.ipynb`
-    - `esercizio-09.ipynb`
-- `lezione_03/` 
-    - `esercizio-01.ipynb`
-    - `esercizio-02.ipynb`
-    - `esercizio-03.ipynb`
-- `lezione_05/` 
-    - `esercizio-01.ipynb`
-    - `esercizio-02.ipynb`
-    - `esercizio-03.ipynb`
+- [`lezione-01/`](/lezione-01)
+    - [`esercizio-01.ipynb`](/lezione-01/esercizio-01.ipynb)
+    - [`esercizio-02.ipynb`](/lezione-01/esercizio-02.ipynb)
+    - [`esercizio-03.ipynb`](/lezione-01/esercizio-03.ipynb)
+- [`lezione-02/`](/lezione-02)
+    - [`esercizio-01.ipynb`](/lezione-02/esercizio-01.ipynb)
+    - [`esercizio-02.ipynb`](/lezione-02/esercizio-02.ipynb)
+    - [`esercizio-03.ipynb`](/lezione-02/esercizio-03.ipynb)
+    - [`esercizio-04.ipynb`](/lezione-02/esercizio-04.ipynb)
+    - [`esercizio-05.ipynb`](/lezione-02/esercizio-05.ipynb)
+    - [`esercizio-06.ipynb`](/lezione-02/esercizio-06.ipynb)
+    - [`esercizio-07.ipynb`](/lezione-02/esercizio-07.ipynb)
+    - [`esercizio-08.ipynb`](/lezione-02/esercizio-08.ipynb)
+    - [`esercizio-09.ipynb`](/lezione-02/esercizio-09.ipynb)
+    - [`data/`](/lezione-02/data)
+        - [`emissioni.txt`](/lezione-02/data/emissioni.txt)
+- [`lezione-03/`](/lezione-03)
+    - [`esercizio-01.ipynb`](/lezione-03/esercizio-01.ipynb)
+    - [`esercizio-02.ipynb`](/lezione-03/esercizio-02.ipynb)
+    - [`esercizio-03.ipynb`](/lezione-03/esercizio-03.ipynb)
+- [`lezione-05/`](/lezione-05)
+    - [`esercizio-01.ipynb`](/lezione-05/esercizio-01.ipynb)
+    - [`esercizio-02.ipynb`](/lezione-05/esercizio-02.ipynb)
+    - [`esercizio-03.ipynb`](/lezione-05/esercizio-03.ipynb)
